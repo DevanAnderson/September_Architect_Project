@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="352100a6-0c46-4f8a-874f-22771b3017b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/September Architect Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Module1.java" afterDir="false" />
+    <list default="true" id="352100a6-0c46-4f8a-874f-22771b3017b4" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Module2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Module1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,19 @@
       <workItem from="1661546202243" duration="192000" />
       <workItem from="1661546443820" duration="6363000" />
       <workItem from="1661560282881" duration="4931000" />
+      <workItem from="1661666642002" duration="229000" />
+      <workItem from="1661710508450" duration="8947000" />
+      <workItem from="1661723147213" duration="471000" />
+      <workItem from="1661732063306" duration="12315000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1661666767345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661666767345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
