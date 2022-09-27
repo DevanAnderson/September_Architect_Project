@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="352100a6-0c46-4f8a-874f-22771b3017b4" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Module2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Module3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Module1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Module2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -40,13 +43,22 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devan/IdeaProjects/September Architect Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devan/IdeaProjects/CISC191-FinalProjectTemplate&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="September Architect Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +74,26 @@
       <workItem from="1661710508450" duration="8947000" />
       <workItem from="1661723147213" duration="471000" />
       <workItem from="1661732063306" duration="12315000" />
+      <workItem from="1661800902773" duration="800000" />
+      <workItem from="1661927401428" duration="718000" />
+      <workItem from="1662307906246" duration="3244000" />
+      <workItem from="1662312027368" duration="2541000" />
+      <workItem from="1662393170080" duration="5088000" />
+      <workItem from="1662406576361" duration="299000" />
+      <workItem from="1662406892349" duration="3377000" />
+      <workItem from="1662428337106" duration="1183000" />
+      <workItem from="1662517324242" duration="1067000" />
+      <workItem from="1662574010496" duration="522000" />
+      <workItem from="1662585598475" duration="4432000" />
+      <workItem from="1662602376995" duration="3698000" />
+      <workItem from="1662614087671" duration="2212000" />
+      <workItem from="1662747275857" duration="18000" />
+      <workItem from="1662934785025" duration="4442000" />
+      <workItem from="1662943380552" duration="17000" />
+      <workItem from="1664151567939" duration="748000" />
+      <workItem from="1664220211754" duration="54000" />
+      <workItem from="1664220274983" duration="2131000" />
+      <workItem from="1664245062939" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1661666767345</created>
@@ -70,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661666767345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1661801014163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661801014163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +129,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
